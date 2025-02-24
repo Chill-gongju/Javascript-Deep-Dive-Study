@@ -1,5 +1,5 @@
 
-![thumbnail (4)](https://github.com/user-attachments/assets/5afa17cb-a843-44bc-8596-7904f641f02d)
+![thumbnail (5)](https://github.com/user-attachments/assets/4a685d80-00fc-4eab-93ce-d239643503b9)
 
 # 🗓️ 일정
 
