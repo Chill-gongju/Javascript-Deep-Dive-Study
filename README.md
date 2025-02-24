@@ -1,5 +1,7 @@
 # 🌱 모던 자바스크립트 딥다이브 스터디
 
+<img width='200' src='https://github.com/user-attachments/assets/259715a3-ca97-45e6-88af-5fe26e75b55f'></img>
+
 기간: 2025.2.24(월) ~ 2025.5.8(목)
 
 시간: 매주 목요일 21시 **(수요일 밤 11시 59분까지 PR 올리기)**
