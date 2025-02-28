@@ -3,7 +3,7 @@
 
 # 🗓️ 일정
 
-|회차|날짜|목차|토론 내용|참여자|
+|회차|날짜|목차|스터디 내용|참여자|
 |---|---|---|--------|----|
 |1|3월 6일 (목)|4, 5, 6, 7, 8, 9, 10|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/1%ED%9A%8C%EC%B0%A8/README.md)|
 |2|3월 13일 (목)|11, 12, 13, 14, 15||
