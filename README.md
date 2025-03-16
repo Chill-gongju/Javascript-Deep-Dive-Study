@@ -5,9 +5,9 @@
 
 |회차|날짜|목차|스터디 내용|참여자|
 |---|---|---|--------|----|
-|1|3월 6일 (목) 오후 9시|4, 5, 6, 7, 8, 9, 10|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/1%ED%9A%8C%EC%B0%A8/README.md)|소연 희범 채연|
-|2|3월 13일 (목) 오후 9시|11, 12, 13, 14, 15|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/2%ED%9A%8C%EC%B0%A8/README.md)|소연 희범 종훈
-|3|3월 21일 (금) 오후 2시|16, 17, 18, 19, 20||
+|1|3월 6일 (목) 오후 9시|4, 5, 6, 7, 8, 9, 10|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/1%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연|
+|2|3월 13일 (목) 오후 9시|11, 12, 13, 14, 15|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/2%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 종훈|
+|3|3월 21일 (금) 오전 10시|16, 17, 18, 19, 20||
 |4|3월 27일 (목)|21, 22, 23, 24, 25||
 |5|4월 3일 (목)|26, 27, 28, 29, 30||
 |6|4월 10일 (목)|31, 32, 33, 34, 35||
@@ -23,17 +23,16 @@ part1 (4장 ~ 20장)
 
 part2 (21장 ~ 36장)
 
-> 4주차 - 빌트인 객체 / this / 실행 컨텍스트
-> <br/>5주차 - 클로저 / 클래스 / ES6 함수의 추가 기능
-> <br/>6주차 - 배열 / Number / Math / Date / RegExp
-> <br/>7주차 - String / 7번째 데이터 타입 Symbol / 이터러블 / 스프레드 문법 / 디스트럭처링 할당
+> 4주차 - 빌트인 객체 / this / 실행 컨텍스트 / 클로저 / 클래스 
+> <br/>5주차 - ES6 함수의 추가 기능 / 배열 / Number / Math / Date 
+> <br/>6주차 - RegExp / String / 7번째 데이터 타입 Symbol / 이터러블 / 스프레드 문법
+> <br/>7주차 - 디스트럭처링 할당 / Set과 Map / 브라우저의 렌더링 과정 / DOM / 이벤트
  
 
 part3 (37장 ~ 49장)
 
-> 8주차 - Set과 Map / 브라우저의 렌더링 과정 / DOM
-> <br/>9주차 - 이벤트 / 타이머 / 비동기 프로그래밍 / Ajax / REST API
-> <br/>10주차 - 제너레이터와 async await / 에러 처리 / 모듈 / Babel과 Webpack 이용
+> 8주차 - 타이머 / 비동기 프로그래밍 / Ajax / REST API / 제너레이터와 async await
+> <br/>9주차 - 에러 처리 / 모듈 / Babel과 Webpack 이용
 
 
 # 👥 진행 방식
