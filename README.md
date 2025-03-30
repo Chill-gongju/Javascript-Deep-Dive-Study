@@ -8,8 +8,8 @@
 |1|3월 6일 (목) 오후 9시|4, 5, 6, 7, 8, 9, 10|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/1%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연|
 |2|3월 13일 (목) 오후 9시|11, 12, 13, 14, 15|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/2%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 종훈|
 |3|3월 21일 (금) 오전 10시|16, 17, 18, 19, 20|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/3%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
-|4|3월 27일 (목) 오후 9시|21, 22, 23, 24, 25||
-|5|4월 3일 (목)|26, 27, 28, 29, 30||
+|4|3월 27일 (목) 오후 9시|21, 22, 23, 24, 25|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/4%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
+|5|4월 3일 (목) 오후 9시|26, 27, 28, 29, 30||
 |6|4월 10일 (목)|31, 32, 33, 34, 35||
 |7|4월 17일 (목)|36, 37, 38, 39, 40||
 |8|4월 24일 (목)|41, 42, 43, 44, 45||
