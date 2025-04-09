@@ -9,8 +9,8 @@
 |2|3월 13일 (목) 오후 9시|11, 12, 13, 14, 15|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/2%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 종훈|
 |3|3월 21일 (금) 오전 10시|16, 17, 18, 19, 20|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/3%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
 |4|3월 27일 (목) 오후 9시|21, 22, 23, 24, 25|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/4%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
-|5|4월 3일 (목) 오후 9시|26, 27, 28, 29, 30||
-|6|4월 10일 (목)|31, 32, 33, 34, 35||
+|5|4월 3일 (목) 오후 9시|26, 27, 28, 29, 30|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/5%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
+|6|4월 10일 (목) 오후 9시|31, 32, 33, 34, 35||
 |7|4월 17일 (목)|36, 37, 38, 39, 40||
 |8|4월 24일 (목)|41, 42, 43, 44, 45||
 |9|5월 1일 (목)|46, 47, 48, 49||
@@ -35,11 +35,17 @@ part3 (37장 ~ 49장)
 > <br/>9주차 - 에러 처리 / 모듈 / Babel과 Webpack 이용
 
 
+<br/>
+
+
 # 👥 진행 방식
 
 - 주 1회, 어려운 내용 1~2개 정해서 발표 및 자유롭게 토론한다 (궁금한 점, 회고, 새로 알게 된 내용, ...)
 - 매주 진행자를 뽑아 스터디를 진행하고 기록한다
 - 각자 학습한 내용을 기한 내에 PR 올린다
+
+<br/>
+  
 
 # 🌱 목표
 
@@ -50,6 +56,10 @@ part3 (37장 ~ 49장)
 - 자바스크립트 기본기 다지기
     - 다른 사람에게 설명할 수 있을 정도로 제대로 공부한다
 - 기록하는 습관 형성
+
+
+<br/>
+  
 
 
 # 🌵 규칙
