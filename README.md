@@ -13,7 +13,7 @@
 |6|4월 10일 (목) 오후 9시|31, 32, 33, 34, 35|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/6%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
 |7|4월 24일 (목) 오후 9시|36, 37, 38, 39, 40|[README](https://github.com/Chill-gongju/Javascript-Deep-Dive-Study/blob/main/7%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
 |8|5월 1일 (목) 오후 9시|41, 42, 43, 44, 45|[README](https://github.com/chill-gongju/Javascript-Deep-Dive-Study/blob/main/8%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
-|9|5월 8일 (목)|46, 47, 48, 49||
+|9|5월 9일 (금) 오후 9시|46, 47, 48, 49|[README](https://github.com/chill-gongju/Javascript-Deep-Dive-Study/blob/main/9%ED%9A%8C%EC%B0%A8/README.md)|소연, 희범, 채연, 종훈|
 
 part1 (4장 ~ 20장)
 
